@@ -49,7 +49,7 @@ nav ul li a:hover {
 
 #home {
     width: 100%;
-    height: 95vh;
+    height: 100vh;
     position: relative;
 }
 
@@ -106,7 +106,7 @@ nav ul li a:hover {
 
 /*About*/
 .about {
-    height: 55vh;
+    height: 80vh;
     background-color: #e5ebf3;
     padding: 2% 10% 10%;
 }
@@ -126,7 +126,7 @@ nav ul li a:hover {
 }
 
 .about-desc p:nth-child(2) {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #7e7e7e;
     text-align: center;
 }
